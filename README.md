@@ -8,7 +8,7 @@ the port is VERY unstable, so it can brick your device
 # Note
 you MUST check the status of this port, you can check it here:
 # Useful resources
-build instructions: [guide/build.md]
+[build instructions](guide/build.md)
 
 [renegade project](https://renegade-project.tech/en/home)
 
