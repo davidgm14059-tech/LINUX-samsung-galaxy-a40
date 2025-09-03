@@ -1,0 +1,1 @@
+# windows-samsung-galaxy-a40
