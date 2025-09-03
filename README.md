@@ -9,5 +9,7 @@ the port is VERY unstable, so it can brick your device
 you MUST check the status of this port, you can check it here:
 # Useful resources
 build instructions: [guide/build.md]
+
 renegade project: [https://renegade-project.tech/en/home]
+
 github of renegade project: [https://github.com/edk2-porting]
