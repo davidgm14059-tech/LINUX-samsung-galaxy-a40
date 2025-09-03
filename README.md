@@ -10,6 +10,6 @@ you MUST check the status of this port, you can check it here:
 # Useful resources
 build instructions: [guide/build.md]
 
-renegade project: [https://renegade-project.tech/en/home]
+[renegade project](https://renegade-project.tech/en/home)
 
-github of renegade project: [https://github.com/edk2-porting]
+[github of renegade project](https://github.com/edk2-porting)
