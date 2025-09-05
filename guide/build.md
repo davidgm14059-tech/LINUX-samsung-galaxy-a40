@@ -10,3 +10,16 @@
 wsl --install
 ```
 when installed, reboot your pc, if that dosen't work, you need to install it on microsoft store
+
+now you need to install the following packages:
+
+```cmd
+sudo apt update
+sudo apt install build-essential uuid-dev iasl git gcc-aarch64-linux-gnu g++-aarch64-linux-gnu python3 python3-distutils python3-pip nasm python-is-python3
+```
+### 2. prequisites
+bootloader unlocked (you MUST unlock the bootloader, otherwise you can't flash this)
+
+[twrp](https://twrp.me/samsung/samsunggalaxya40.html) (in the future i will make a modded twrp)
+
+[uefi image]()
