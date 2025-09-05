@@ -22,4 +22,4 @@ bootloader unlocked (you MUST unlock the bootloader, otherwise you can't flash t
 
 [twrp](https://twrp.me/samsung/samsunggalaxya40.html) (in the future i will make a modded twrp)
 
-[uefi image]()
+[uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/edk2-a40/boot-a40.img)
