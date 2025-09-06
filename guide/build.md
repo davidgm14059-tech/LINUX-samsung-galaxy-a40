@@ -20,6 +20,9 @@ sudo apt install build-essential uuid-dev iasl git gcc-aarch64-linux-gnu g++-aar
 ### 2. prequisites
 bootloader unlocked (you MUST unlock the bootloader, otherwise you can't flash this)
 
-[twrp](https://twrp.me/samsung/samsunggalaxya40.html) (in the future i will make a modded twrp)
+[twrp](https://twrp.me/samsung/samsunggalaxya40.html)
 
 [uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/edk2-a40/boot-a40.img)
+
+microSD card (or usb and OTG)
+
