@@ -23,3 +23,6 @@ this will destroy ALL of your data on the phone, do a backup before procedding
 4. you must see this screen or similar
 #### please note: the screenshot is dark due to phone screen
 ![a40](https://github.com/user-attachments/assets/fb3df444-fcc6-432a-a033-df8221a86868)
+5. long press vol up button until you see a warning saying "Unlock bootloader?"
+6. press vol up to confirm, otherwise press vol - (pressing vol - will NOT unlock the bootloader)
+7. if you see "Your phone's bootloader is unlocked", then your bootloader is unlocked (but your data has been destroyed)
