@@ -21,3 +21,5 @@ this will destroy ALL of your data on the phone, do a backup before procedding
 2. press vol + and vol - together
 3. without releasing the buttons, connect the phone to your pc
 4. you must see this screen or similar
+#### please note: the screenshot is dark due to phone screen
+![a40](https://github.com/user-attachments/assets/fb3df444-fcc6-432a-a033-df8221a86868)
