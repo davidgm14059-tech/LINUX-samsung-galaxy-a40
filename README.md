@@ -6,7 +6,7 @@ WITH EXYNOS 7904, i'm not responsible for any damage
 # IMPORTANT
 the port is VERY unstable, so it can brick your device
 # Note
-you MUST check the status of this port, you can check it [here](build/status.md)
+you MUST check the status of this port, you can check it [here](status.md)
 # Useful resources
 [build instructions](guide/build.md)
 
