@@ -34,7 +34,7 @@ microSD card (or usb and OTG)
 
 ### 3. installing twrp
 > [!IMPORTANT]
-> for installing twrp frist you need to unlock the bootloader, if you did that before, skip tHis text
+> for installing twrp frist you need to unlock the bootloader, if you did that before, skip this text
 
 1. reboot the phone into download mode (if you don't know how to reboot in download mode, follow the frist steps of the guide for unlocking bootloader)
 2. press vol up normally (no long press)
@@ -45,7 +45,7 @@ microSD card (or usb and OTG)
 7. wait
 
 ### flashing image
-> [!WARN]
+> [!WARNING]
 > DO NOT REBOOT YOUR PHONE IN THIS STEP, IF YOU REBOOT IT, YOUR PHONE WILL BE BRICKED
 
 1. download uefi image
