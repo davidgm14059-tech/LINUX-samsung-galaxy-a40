@@ -13,7 +13,7 @@
 - [ ] Cellular
 - [ ] Charging
 - [ ] Display ```only black screen```
-- [ ] GPU ```i don't know if it has framebuffer or not```
+- [ ] GPU ```no framebuffer```
 - [ ] SD
 - [ ] Touchscreen
 - [ ] UFS
