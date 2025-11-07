@@ -1,21 +1,4 @@
-# Windows ARM for samsung galaxy a40
-i'm just porting renegade project to the samsung galaxy a40, here it is
+# NOTICE
+sorry, but i'm having trouble with wsl because my C: drive was just having 0 bytes remaining, this is why i changed the readme,
+sadly, i have to shut down the port for some days, thank you
 
-> [!IMPORTANT]
-> this repository is in construction and TOO MANY things on this repo are incompleted,
-> if you stay here, means that you will contribute, but if not, i will let you stay here, but please
-> note that the repository is in construction, thank you for reading
-
-# ⚠--- WARNING ---⚠
-try this if you know what you're doing, THIS IS ONLY FOR SAMSUNG GALAXY A40
-WITH EXYNOS 7904, i'm not responsible for any damage
-# IMPORTANT
-the port is VERY unstable, so it can brick your device
-# Note
-you MUST check the status of this port, you can check it [here](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/blob/main/guide/status.md)
-# Useful resources
-[build instructions](guide/build.md)
-
-[renegade project](https://renegade-project.tech/en/home)
-
-[github of renegade project](https://github.com/edk2-porting)
