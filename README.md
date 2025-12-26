@@ -1,6 +1,9 @@
 # Windows ARM for samsung galaxy a40
 i'm just porting renegade project to the samsung galaxy a40, here it is
 
+> [!NOTE]
+> im back, i didn't access the repo for a long time, i still have my samsung galaxy a40, and also i didn't continue the port
+
 > [!IMPORTANT]
 > this repository is in construction and TOO MANY things on this repo are incompleted,
 > if you stay here, means that you will contribute, but if not, i will let you stay here, but please
