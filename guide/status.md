@@ -31,9 +31,8 @@
 
 #### others
 - [X] boots into uefi
-- [X] SD card recognized
-- [ ] windows logo
-- [ ] bluescreen (no drivers)
-- [ ] winPE
-- [ ] the windows installer (after doing stuff in winPE)
-- [ ] full windows
+- [ ] boots grub
+- [ ] LINUX LOGO
+- [ ] terminal
+- [ ] minimal gui
+- [ ] full linux
