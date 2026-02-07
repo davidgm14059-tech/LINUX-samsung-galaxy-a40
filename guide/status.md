@@ -1,4 +1,4 @@
-# running windows on the samsung galaxy a40
+# running linux on the samsung galaxy a40
 ## project status
 > [!NOTE]
 > many things dosen't work because the only thing you will see is a black screen for seconds,
