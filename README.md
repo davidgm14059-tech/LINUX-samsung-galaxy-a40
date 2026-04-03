@@ -1,11 +1,6 @@
 # Windows ARM for samsung galaxy a40
 i'm just porting renegade project to the samsung galaxy a40, here it is
 
-> [!NOTE]
-> hi mu-silicium, you may remember me from that issue that you wanted me to go to discord to get help,
-> do you REALLY THINK that i was giving up after that messages of "exynos will NEVER RUN WINDOWS"?
-> so, checkmate, i just got RENEGADE PROJECT UEFI, on my samsung galaxy a40
-
 > [!IMPORTANT]
 > this repository is in construction and TOO MANY things on this repo are incompleted,
 > if you stay here, means that you will contribute, but if not, i will let you stay here, but please
