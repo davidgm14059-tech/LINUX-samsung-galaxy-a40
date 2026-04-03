@@ -31,8 +31,10 @@
 
 #### others
 - [X] boots into uefi
-      
-- [ ] LINUX LOGO
-- [ ] terminal
-- [ ] minimal gui
-- [ ] full linux
+- [ ] SD card recognized
+- [X] EFI SHELL
+- [ ] windows logo (or the loading circle)
+- [ ] winPE
+- [ ] the windows installer (after doing stuff in winPE)
+- [ ] full windows (or almost)
+
