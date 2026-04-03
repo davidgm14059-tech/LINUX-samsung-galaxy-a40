@@ -12,11 +12,11 @@
 - [ ] Camera
 - [ ] Cellular
 - [ ] Charging
-- [ ] Display ```only black screen```
-- [ ] GPU ```no framebuffer```
+- [X] Display
+- [X] GPU ```... maybe, i did not test how windows arm behaves yet, so marked as working```
 - [ ] SD
 - [ ] Touchscreen
-- [ ] UFS
+- [ ] UFS ```testing but does not work yet```
 - [ ] USB
 - [ ] Wi-Fi
 
@@ -31,7 +31,7 @@
 
 #### others
 - [X] boots into uefi
-- [ ] boots grub
+      
 - [ ] LINUX LOGO
 - [ ] terminal
 - [ ] minimal gui
