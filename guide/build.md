@@ -22,7 +22,7 @@ sudo apt install build-essential uuid-dev iasl git gcc-aarch64-linux-gnu g++-aar
 
 [twrp](https://twrp.me/samsung/samsunggalaxya40.html)
 
-[uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/edk2-a40/boot-a40-v1.1.img)
+[uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/new-uefi/boot-a40-working.img)
 
 [odin3](https://odindownload.com/download/)
 
