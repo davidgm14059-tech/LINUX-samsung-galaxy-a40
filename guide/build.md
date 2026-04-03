@@ -22,7 +22,7 @@ sudo apt install build-essential uuid-dev iasl git gcc-aarch64-linux-gnu g++-aar
 
 [twrp](https://twrp.me/samsung/samsunggalaxya40.html)
 
-[uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/new-uefi/boot-a40-working.img)
+[uefi image](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/releases/download/newuefi/boot-a40-working.img)
 
 [odin3](https://odindownload.com/download/)
 
@@ -55,6 +55,6 @@ microSD card (or usb and OTG)
 5. once it flashed, reboot your phone
 
 > [!NOTE]
-> if you see the phone bootlooping, it's normal because the port is in experimental level and probably dosen't work,
-> download samsung firmware and reflash the phone, do not install the AP file of official samsung firmware,
-> installing it will flash android, instead, replace AP file to twrp tar file, after that, put into the userdata (or AP file after twrp) file, the vbmeta tar file
+> now you will see renegade project logo and boot menu, if you select continue boot will bring you to efi shell until i
+> fix this, apparently it's normal and happened to me, if did not happen to you, or you have an idea, make a issue with this tag on title: "[DISCUSSION]", otherwise if you have a problem,
+> put in the title of your issue this tag: "[PROBLEM]"
