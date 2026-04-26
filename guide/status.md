@@ -1,9 +1,7 @@
 # running linux on the samsung galaxy a40
 ## project status
 > [!NOTE]
-> many things dosen't work because the only thing you will see is a black screen for seconds,
-> after that, the phone reboots itself, this will cause a bootloop and you will need to flash it via odin3 and download
-> the samsung firmware on samfw.com
+> it only boots into efi shell, so almost nothing works
 #### Features
 - [ ] audio
 - [ ] Battery status
@@ -16,8 +14,8 @@
 - [X] GPU ```... maybe, i did not test how windows arm behaves yet, so marked as working```
 - [ ] SD
 - [ ] Touchscreen
-- [ ] UFS ```testing but does not work yet```
-- [ ] USB
+- [ ] UFS ```not working```
+- [ ] USB ```partial: im trying some edk2 ports but only one in efi shell reconizes usb on the go (OTG)```
 - [ ] Wi-Fi
 
 #### Sensors
@@ -34,7 +32,7 @@
 - [ ] SD card recognized
 - [X] EFI SHELL
 - [ ] windows logo (or the loading circle)
-- [ ] winPE
+- [ ] winPE (maybe, or not, because i will need a usb hub if its via usb)
 - [ ] the windows installer (after doing stuff in winPE)
-- [ ] full windows (or almost)
+- [ ] full windows (or almost, i don't want it to be very usable like a computer)
 
