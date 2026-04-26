@@ -1,4 +1,4 @@
-# running linux on the samsung galaxy a40
+# running windows on the samsung galaxy a40
 ## project status
 > [!NOTE]
 > it only boots into efi shell, so almost nothing works
