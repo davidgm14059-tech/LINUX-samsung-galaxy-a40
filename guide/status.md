@@ -14,8 +14,8 @@
 - [X] GPU ```... maybe, i did not test how windows arm behaves yet, so marked as working```
 - [ ] SD
 - [ ] Touchscreen
-- [ ] UFS ```not working```
-- [ ] USB ```partial: im trying some edk2 ports but only one in efi shell reconizes usb on the go (OTG)```
+- [X] UFS ```throws errors on boot but its fine```
+- [ ] USB 
 - [ ] Wi-Fi
 
 #### Sensors
