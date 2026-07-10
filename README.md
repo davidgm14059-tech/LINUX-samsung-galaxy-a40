@@ -2,9 +2,7 @@
 i'm just porting renegade project to the samsung galaxy a40, here it is
 
 > [!IMPORTANT]
-> this repository is in construction and TOO MANY things on this repo are incompleted,
-> if you stay here, means that you will contribute, but if not, i will let you stay here, but please
-> note that the repository is in construction, thank you for reading
+> this repository is in construction and TOO MANY things on this repo are incompleted
 
 # ⚠--- WARNING ---⚠
 try this if you know what you're doing, THIS IS ONLY FOR SAMSUNG GALAXY A40
