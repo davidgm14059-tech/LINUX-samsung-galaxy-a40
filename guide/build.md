@@ -36,7 +36,7 @@ microSD card (or usb and OTG)
 > [!IMPORTANT]
 > for installing twrp first you need to unlock the bootloader, if you did that before, skip this text
 
-1. reboot the phone into download mode (if you don't know how to reboot in download mode, follow the frist steps of the guide for unlocking bootloader)
+1. reboot the phone into download mode (if you don't know how to reboot in download mode, follow the first steps of the guide for unlocking bootloader)
 2. press vol up normally (no long press)
 3. open odin3
 4. click AP field and select TWRP tar file
@@ -51,10 +51,8 @@ microSD card (or usb and OTG)
 1. download uefi image
 2. sideload it into a microSD or OTG
 3. mount the OTG or microSD
-4. flash the image that says "boot-a40" or something similar but the name needs to say "boot-a40" to prove that is uefi file
+4. flash the image that says "boot-a40" or something similar, but the name needs to say "boot-a40" to prove that is uefi file
 5. once it flashed, reboot your phone
 
 > [!NOTE]
-> now you will see renegade project logo and boot menu, if you select continue boot will bring you to efi shell until i
-> fix this, apparently it's normal and happened to me, if did not happen to you, or you have an idea, make a issue with this tag on title: "[DISCUSSION]", otherwise if you have a problem,
-> put in the title of your issue this tag: "[PROBLEM]"
+> now you will see renegade project logo and boot menu, booting you to uefi shell, i will not upload the new UEFI image until the emmc its finished
