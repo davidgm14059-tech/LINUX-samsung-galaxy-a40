@@ -14,7 +14,7 @@
 - [X] GPU ```... maybe, i did not test how windows arm behaves yet, so marked as working```
 - [ ] SD
 - [ ] Touchscreen
-- [X] UFS ```throws errors on boot but its fine```
+- [X] UFS/EMMC ```partial: it throws errors on boot, efi shell sees it as blk0, but you can't open it to see files```
 - [ ] USB 
 - [ ] Wi-Fi
 
