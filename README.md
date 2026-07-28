@@ -7,8 +7,6 @@ i'm just porting renegade project to the samsung galaxy a40, here it is
 # ⚠--- WARNING ---⚠
 try this if you know what you're doing, THIS IS ONLY FOR SAMSUNG GALAXY A40
 WITH EXYNOS 7904, i'm not responsible for any damage
-# IMPORTANT
-the port is A BIT unstable, it didn't brick my device, but im risking this because my phone has UFS and may delete my eMMC, i have odin flash so i can just get it unbricked, like 1.000.000 times
 
 # Note
 you MUST check the status of this port, you can check it [here](https://github.com/davidgm14059-tech/windows-samsung-galaxy-a40/blob/main/guide/status.md)
