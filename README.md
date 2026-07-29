@@ -3,9 +3,9 @@ i'm just porting renegade project to the samsung galaxy a40, here it is
 
 > [!IMPORTANT]
 > this repository is in construction and TOO MANY things on this repo are incompleted
-> 
-> [!NOTICE]
-> i will not share installation methods until the windows on arm port is working fine
+
+# NOTICE
+i will not share installation methods until the windows on arm port is working fine
 
 # ⚠--- WARNING ---⚠
 try this if you know what you're doing, THIS IS ONLY FOR SAMSUNG GALAXY A40
